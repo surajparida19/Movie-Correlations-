@@ -1,1 +1,3 @@
-# Movie-Correlations-
+# Movie Correlations Analysis:
+
+This project analyzes the relationships between various movie features such as budget, gross earnings, and votes using Python libraries like pandas, seaborn, and matplotlib. It explores correlations through scatterplots, regression plots, and heatmaps, using Pearson, Kendall, and Spearman methods. The analysis reveals that budget and votes have the highest correlation with gross earnings, while company has a lower correlation. The project aims to provide insights into what factors influence a movie's financial success, with clear visualizations to support the findings.
